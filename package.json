@@ -1,0 +1,12 @@
+{
+  "name": "bancodevenzuela",
+  "version": "1.0.0",
+  "description": "gestion de cuentas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aula",
+  "license": "ISC",
+  "type":"module"
+}
